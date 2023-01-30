@@ -1,5 +1,5 @@
 let productTwo = {
-  prod_img: "../img/team-1.jpg",
+  prod_img: "img/team-3.jpg",
   prod_info: "From Dynamic Card-JS",
   prod_btn: "Mathew",
 };
